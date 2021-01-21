@@ -1,3 +1,7 @@
+# Files/folders to ignore
+/sample
+MadLibs.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
