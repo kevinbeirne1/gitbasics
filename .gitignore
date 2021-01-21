@@ -1,6 +1,7 @@
 # Files/folders to ignore
 /sample
 MadLibs.txt
+config.cfg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
